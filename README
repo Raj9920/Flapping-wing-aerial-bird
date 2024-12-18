@@ -2,3 +2,7 @@ The development of the control system for flapping wing aerial bird is a team pr
 
 
 This project provided an opportunity to learn about control system and how much effort is needed to achieve a 6 degree of freedom control motion for a non-linear aerodynamic aerial vehicle. Use of mathematical Modelling to understand the dynamics of the system and after experimenting with different types of controller came up with the use of mpc controller as the most suitable.
+
+Modelling & Simulation Software used:-
+1) coppeliasim 
+2) Simulink/Matlab
