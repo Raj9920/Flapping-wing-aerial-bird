@@ -1,1 +1,4 @@
-This project provided an opportunity to learn about control system and how much effort is needed to achieve a 6 degree of freedom motion for a non-linear aerodynamic aerial vehicle. Use of mathematical Modelling to understand the dynamics of the system and after experimenting with different types of controller came up with the use of mpc controller as the most suitable.
+The development of the control system for flapping wing aerial bird is a team project consisting of 3 team members and 2 supervisiors, it is a great time to learn and work with such amazing people as everybody provided different perspective and experience to this project.
+
+
+This project provided an opportunity to learn about control system and how much effort is needed to achieve a 6 degree of freedom control motion for a non-linear aerodynamic aerial vehicle. Use of mathematical Modelling to understand the dynamics of the system and after experimenting with different types of controller came up with the use of mpc controller as the most suitable.
